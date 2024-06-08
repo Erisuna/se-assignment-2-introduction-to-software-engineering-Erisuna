@@ -10,6 +10,7 @@ Define Software Engineering:
 
 
 What is software engineering, and how does it differ from traditional programming?
+
 Software engineering applies engineering principles to design, develop, maintain, test, and evaluate software and systems. Unlike traditional programming, which focuses mainly on writing code, software engineering covers the entire software lifecycle, emphasizing processes, methodologies, and tools to create high-quality software.
 
 Software Development Life Cycle (SDLC):
